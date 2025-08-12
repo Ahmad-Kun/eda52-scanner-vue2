@@ -1,0 +1,1 @@
+# eda52-scanner-vue2
