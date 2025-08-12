@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Demo-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A **simple interactive demo** for integrating **Honeywell EDA52 Android 11 (S0703)** barcode scanning with **Vue 2** using **Capacitor** for native Android support. Also includes a quick guide for **ngrok** live preview.  
+A **simple interactive demo** for integrating **Honeywell EDA52 Android 11 (S0703)** infinite barcode scanning with **Vue 2** using **Capacitor** for native Android support. Also includes a quick guide for **ngrok** live preview.  
 
 ---
 
