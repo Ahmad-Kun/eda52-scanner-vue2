@@ -5,8 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Demo-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A **simple interactive demo** for integrating **Honeywell EDA52** barcode scanning with **Vue 2** using **Capacitor** for native Android support.  
-Also includes a quick guide for **ngrok** live preview.  
+A **simple interactive demo** for integrating **Honeywell EDA52 Android 11 (S0703)** barcode scanning with **Vue 2** using **Capacitor** for native Android support. Also includes a quick guide for **ngrok** live preview.  
 
 ---
 
@@ -30,8 +29,8 @@ Also includes a quick guide for **ngrok** live preview.
 ---
 
 ##  Requirements
-- **Node.js** ≥ 14  
-- **npm** or **yarn**  
+- **Node.js** v20.19.0  
+- **npm**  
 - **Android Studio** (for building to device)  
 - **ngrok**  
 
@@ -41,7 +40,7 @@ Also includes a quick guide for **ngrok** live preview.
 
 **1️⃣ Clone the repo**
 ```bash
-git clone https://github.com/yourusername/eda52-scanner-vue2.git
+git clone https://github.com/Ahmad-Kun/eda52-scanner-vue2.git
 cd eda52-scanner-vue2
 ```
 **2️⃣ Install dependencies**
